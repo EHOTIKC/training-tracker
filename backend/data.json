@@ -1,0 +1,69 @@
+[
+  {
+    "id": "1709320000001",
+    "title": "Morning 5K Run",
+    "category": "Cardio",
+    "durationMinutes": 30,
+    "isCompleted": true,
+    "tags": [
+      "outdoor",
+      "morning"
+    ]
+  },
+  {
+    "id": "1709320000002",
+    "title": "Heavy Leg Day",
+    "category": "Strength",
+    "durationMinutes": 75,
+    "isCompleted": false,
+    "tags": [
+      "gym",
+      "legday",
+      "heavy"
+    ]
+  },
+  {
+    "id": "1709320000003",
+    "title": "Recovery Yoga",
+    "category": "Yoga",
+    "durationMinutes": 20,
+    "isCompleted": true,
+    "tags": [
+      "recovery",
+      "flexibility"
+    ]
+  },
+  {
+    "id": "1709320000004",
+    "title": "HIIT Intervals",
+    "category": "Cardio",
+    "durationMinutes": 45,
+    "isCompleted": false,
+    "tags": [
+      "hiit",
+      "indoor",
+      "intense"
+    ]
+  },
+  {
+    "id": "1709320000005",
+    "title": "Core & Abs",
+    "category": "Strength",
+    "durationMinutes": 15,
+    "isCompleted": false,
+    "tags": [
+      "home",
+      "core"
+    ]
+  },
+  {
+    "id": "1788691453874",
+    "title": "core 123",
+    "category": "Cardio",
+    "durationMinutes": 32,
+    "isCompleted": true,
+    "tags": [
+      "core"
+    ]
+  }
+]
